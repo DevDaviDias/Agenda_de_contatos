@@ -4,6 +4,8 @@ Uma aplicação de agenda simples e moderna desenvolvida com Node.js, Express, E
 
 ### Acessar o  projeto: __ [Link](https://progetoagenda-kg38yeu8s-dias-projects-e25db624.vercel.app/) __
 
+![Image](https://github.com/user-attachments/assets/ed8342cb-acaf-4848-899a-d5a260714f98)
+
 ## Tecnologias usadas:
 - Node.js
 - Express.js
