@@ -2,7 +2,7 @@
 
 Uma aplicação de agenda simples e moderna desenvolvida com Node.js, Express, EJS, e MongoDB.
 
-![][(link do pprojeto](https://progetoagenda-kg38yeu8s-dias-projects-e25db624.vercel.app/))
+[(Link do projeto](https://progetoagenda-kg38yeu8s-dias-projects-e25db624.vercel.app/))
 
 ## Tecnologias usadas:
 - Node.js
