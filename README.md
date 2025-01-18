@@ -10,7 +10,7 @@ Uma aplicação de agenda simples e moderna desenvolvida com Node.js, Express, E
 - MongoDB
 - EJS
 - Bootstrap
-- 
+ 
 - ####  Esse projeto foi desenvolvido em conjunto com Luis Otávio, instrutor da Udemy, o que foi uma experiência incrível de colaboração.
 
 
